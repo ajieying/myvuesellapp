@@ -1,2 +1,2 @@
 # myvuesellapp
-personal vue project
+personal first vue project
